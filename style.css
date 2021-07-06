@@ -1,0 +1,231 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.flexContainer {
+    display: flex;
+}
+
+.firstHeading {
+    margin: 150px 10px 0px 50px;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+#colorOrange {
+    color: #fc984c;
+}
+
+.firstLeftSection {
+    margin-left: 5%;
+    width: 40%;
+    
+}
+
+.firstLeftSection p {
+        padding: 10px 50px;
+}
+
+.btn {
+    margin: 50px;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-image: linear-gradient(to right, tomato, orange);
+    color: white;
+    border-radius: 25px;
+    font-weight: bolder;
+}
+.firstrightSection {
+    margin-left: 5%;
+    padding: 30px;
+    width: 40%;
+    
+}
+
+.firstImage {
+    width: 500px;
+    height: 580px;
+}
+
+
+.secondpart {
+    
+    background-image: url('images/secondShape.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.secondImage {
+    margin: 10px 20px 0px 200px;
+    padding: 0px;
+    width: 200px;
+    height: 350px;
+}
+
+
+.secondRightSection {
+    margin: 40px;
+    padding: 40px;
+    width: 40%;
+}
+
+.secondRightSection p {
+    padding: 20px 0px;
+}
+
+
+.centerSection{
+    padding: 10px 240px;
+    text-align: center;
+}
+
+.receipe {
+    padding: 5%;
+}
+
+.Cardcontainer {
+    margin: 0px;
+}
+
+.Cardcontainer h3 {
+    text-align: center;
+}
+
+
+.firstcard {
+    margin: 2%;
+    padding: 10px;
+    width: 30%;
+    border-radius: 25px;
+    box-shadow: 5px 5px 18px gray;
+}
+
+.secondcard {
+    margin: 2%;
+    padding: 10px;
+    width: 30%;
+    border-radius: 25px;
+    box-shadow: 5px 5px 18px gray;
+}
+
+.thirdcard {
+    margin: 2%;
+    padding: 10px;
+    width: 30%;
+    border-radius: 25px;
+    box-shadow: 5px 5px 18px gray;
+}
+
+.imgsize {
+    width: 100%;
+    height: 300px;
+}
+
+
+.review {
+    margin: 0px;
+    padding: 0px;
+}
+
+.Cardcontainer {
+    margin: 0px;
+}
+
+.Cardcontainer h4 {
+    margin: 0px;
+    padding: 0px 10px 0px;
+
+}
+
+.Cardcontainer p {
+    margin: 0px;
+    padding: 0px;
+    padding: 0px 10px 0px;
+}
+
+.firstcard {
+    margin: 2%;
+    padding: 10px;
+    width: 30%;
+    border-radius: 25px;
+    box-shadow: 5px 5px 18px gray;
+}
+
+.secondcard {
+    margin: 2%;
+    padding: 10px;
+    width: 30%;
+    border-radius: 25px;
+    box-shadow: 5px 5px 18px gray;
+}
+
+.thirdcard {
+    margin: 2%;
+    padding: 10px;
+    width: 30%;
+    border-radius: 25px;
+    box-shadow: 5px 5px 18px gray;
+}
+
+.imgsize {
+    width: 100%;
+    height: 300px;
+}
+
+.Newslater {
+    padding: 3%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.scribeBtn {
+    margin: 0px;
+    padding: 6px 20px;
+    text-decoration: none;
+    background-image: linear-gradient(to right, tomato, orange);
+    color: white;
+    border-radius: 25px;
+    font-weight: bolder;
+}
+
+.footer {
+    margin: 0px;
+    padding: 0px;    
+    width: 100%; 
+    height: 180px;   
+    background-color: #0b0e17;
+    text-align: center;
+    color: #feffff;
+}
+
+.footer h1  {
+    margin: 0px;
+    padding-top: 60px;
+    font-size: 25px;
+}
+
+.footer p {
+    margin: 0px;
+    padding: 0px;
+    font-size: 10px;
+}
+
+
+
+#food {
+    color: #5b5b5b;
+}
+
+#network {
+    color: #fd8143;
+}
+
+.para {
+    margin: 0px;
+    
+    color: burlywood;
+}
